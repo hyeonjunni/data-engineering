@@ -1,0 +1,8 @@
+# Mac 시스템 파일
+.DS_Store
+
+# Python 관련
+__pycache__/
+*.py[cod]
+venv/
+.env
