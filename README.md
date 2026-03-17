@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 데이터 엔지니어링 실습 기록
 
 [cite_start]이 저장소는 **2026학년도 1학기 데이터 엔지니어링** 수업의 실습 내용을 정리한 공간입니다. [cite: 1460, 2053]
@@ -16,3 +17,7 @@
    ```bash
    python -m venv venv
    source venv/bin/activate  # Mac 기준
+=======
+# data-engineering
+데이터엔지니어링수업 실습 자료
+>>>>>>> a80883de6f77b6cb83c68fee46554aacfcda1d39
