@@ -17,7 +17,3 @@
    ```bash
    python -m venv venv
    source venv/bin/activate  # Mac 기준
-=======
-# data-engineering
-데이터엔지니어링수업 실습 자료
->>>>>>> a80883de6f77b6cb83c68fee46554aacfcda1d39
