@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # 📊 데이터 엔지니어링 실습 기록
 
-[cite_start]이 저장소는 **2026학년도 1학기 데이터 엔지니어링** 수업의 실습 내용을 정리한 공간입니다. [cite: 1460, 2053]
+이 저장소는 **2026학년도 1학기 데이터 엔지니어링** 수업의 실습 내용을 정리한 공간입니다.
 
 ## 🛠 환경 설정
 - **Language:** Python 3.13.12
-- [cite_start]**Core Library:** NumPy (N-Dimensional Arrays & Efficient Computation) [cite: 1462, 2055]
+- **Core Library:** NumPy (N-Dimensional Arrays & Efficient Computation)
 - **IDE:** Jupyter Notebook (.ipynb)
 
 ## 📂 폴더 구조
