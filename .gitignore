@@ -6,3 +6,6 @@ __pycache__/
 *.py[cod]
 venv/
 .env
+
+# Jupyter Notebook 임시 파일
+.ipynb_checkpoints/
